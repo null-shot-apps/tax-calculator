@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "Nigerian Tax Calculator - PAYE & Personal Income Tax",
+  description: "Calculate your Nigerian Personal Income Tax (PAYE) accurately. Based on PITA with progressive tax bands, CRA, pension, and NHF deductions.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
